@@ -1,5 +1,7 @@
 # Iwona Langer bio
 
+![Profile photo of Iwona Langer](/IwonaCV.jpg)
+
 ## About
 
 I am a graduate of the **English Philology Department** at the **[University of Silesia](https://us.edu.pl)** with long experience in teaching English to all age groups. Although, as an English teacher, I have had multiple opportunities of personal and professional development, I am now looking for a position that will offer new challenges and a possibility to learn new skills.  

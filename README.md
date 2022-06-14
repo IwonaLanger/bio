@@ -72,4 +72,4 @@ I have successfully used the **[Scrum](https://www.scrum.org)** framework in my 
 * Nauczycielskie Kolegium Języków Obcych<br>
   BA, English philology
 * [National University of Ireland, Galway](https://www.nuigalway.ie)<br>
-  English philology
+  scholarship, English philology

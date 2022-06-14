@@ -63,3 +63,11 @@ I have successfully used the **[Scrum](https://www.scrum.org)** framework in my 
   Sosnowiec, Woj. Śląskie, Polska
   </details> 
   
+## Education
+  
+* [University of Silesia in Katowice](https://us.edu.pl)<br>
+  MA, English philology
+* Nauczycielskie Kolegium Języków Obcych<br>
+  BA, English philology
+* [National University of Ireland, Galway](https://www.nuigalway.ie)<br>
+  English philology

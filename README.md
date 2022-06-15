@@ -1,6 +1,6 @@
 # Iwona Langer bio
 
-<img src="IwonaCV.jpg" alt="Iwona Langer profile photo" width="250" />
+<img src="assets/IwonaCV.jpg" alt="Iwona Langer profile photo" width="250" />
 
 ## About
 
